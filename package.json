@@ -1,4 +1,13 @@
 {
+  "name": "Ping-Watch",
+  "version": "0.1.0",
+  "description": "RESTful nodeJS script for pinging and logging multiple hosts based on traceroute to an endpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hansjd",
+  "license": "ISC",
   "dependencies": {
     "async": "^1.5.2",
     "ping": "^0.1.10",
